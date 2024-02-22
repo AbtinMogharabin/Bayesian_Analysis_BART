@@ -1,4 +1,4 @@
-# Bayesian_Analysis_BART
+# Bayesian Analysis of BART
 This was the  term project of the Graduate course: Introduction to probabilistic programming. Here, I used a variety of modeling approaches to conduct a comprehensive analysis of Balloon Analogue Risk Task (BART) cognitive test. I used PyMC to design and implement a variety of Bayesian models including Bayesian Linear models, Bayesian Non-linear models, Bayesian Mutli-level Models, and Bayesian Gaussian processes. You can find a short summary of the BART data and design of the experiment. This dataset was provided by Professor Yet Barbaros, the instructor of the course.
 
 ## Introduction to The Balloon Analogue Risk Task
