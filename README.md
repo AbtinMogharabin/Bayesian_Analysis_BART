@@ -17,9 +17,9 @@ The data from the experiment was given in a folder consisting of `name-id.txt` f
 
 ## General Model Structure
 
-Following DAG shows a good summary of the causal relations I followed in my models:
+The following DAG shows a good summary of the causal relations I followed in my models:
 
-<img src="Images/DAG.png" alt="Image" width="600" height="500">
+<img src="Images/DAG.png" alt="Image" width="400" height="360">
 
 The main variable of this DAG are as followinng:
 - A: alcohol condition
