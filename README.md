@@ -21,7 +21,7 @@ The following DAG shows a good summary of the causal relations I followed in my 
 
 <img src="Images/DAG.png" alt="Image" width="400" height="360">
 
-The main variable of this DAG are as followinng:
+The main variables of this DAG are:
 - A: alcohol condition
 - S: order of session presentation (i.e. when, for the whole experiment, a session of blocks is given to the participant: is it the first, second, or third session of the experiment)
 - B: order of block presentation (i.e. when, within a session, a block of trials is given to the participant: is it the first, second, or third block of the session)
