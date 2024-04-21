@@ -11,9 +11,8 @@ The data for this project is from an experiment where researchers were intereste
 Design of the experiment:
 [3 sessions: sober, tipsy, drunk] x [3 blocks for p_burst: 0.1, 0.15, 0.2] x [30 trials]
 
-The data from the experiment was given in a folder consisting of `name-id.txt` files. The session-condition relation seems to be randomized, and authors share a mapping matrix (given below). Assume that participant ID is given after sorting names alphabetically (i.e. Frank is the first subject, Gjis is the second, up to Wouter, the last). Condition identifier matrix is given below `condition_info`. According to this matrix for participant 1, session 1 was the drunk condition, session 2 was the tipsy condition, and session 3 was the sober condition (i.e. columns for participants 1 to 18, and rows for session 1 to 3, and values are 1: sober, 2: tipsy, 3: drunk). So, for 3rd participant 1st session was tipsy, 2nd session was drunk and 3rd session was sober.
+The data from the experiment was given in a folder consisting of `name-id.txt` files. The session-condition relation seems to be randomized, and authors share a mapping matrix (used in the notebook 1). Assume that participant ID is given after sorting names alphabetically (i.e. Frank is the first subject, Gjis is the second, up to Wouter, the last). Condition identifier matrix is given below `condition_info`. According to this matrix for participant 1, session 1 was the drunk condition, session 2 was the tipsy condition, and session 3 was the sober condition (i.e. columns for participants 1 to 18, and rows for session 1 to 3, and values are 1: sober, 2: tipsy, 3: drunk). So, for 3rd participant 1st session was tipsy, 2nd session was drunk and 3rd session was sober.
 
-- The instructor also provided some hints and requests regarding specific sections of the project tasks (especially regarding the visulizations). This reprosetory mainly includes the sections of the project where instructor provided us more freedom. I also added the instructions of course instructor regarding the remaining sections as they were in markdown format.
 
 ## General Model Structure
 
