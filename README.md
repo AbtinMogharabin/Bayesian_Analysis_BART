@@ -29,3 +29,9 @@ The main variables of this DAG are:
 - pC: proportion of cashed trials in a block
 - pE: proportion of explosions in a block (with respect to total number of pumps in a block)
 - TR: total reward of a block
+
+
+## Data
+
+* The dataset is from van Ravenzwaaij, Dutilh, Wagenmakers (2011) Cognitive model decomposition of the BART: Assessment and application, Journal of Mathematical Psychology.
+* Their data is available on [OSF](https://osf.io/u6qft/)
